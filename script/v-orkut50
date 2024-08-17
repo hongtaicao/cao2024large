@@ -1,0 +1,159 @@
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-0.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/4-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/8-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/9-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/10-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/12-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/16-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/20-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/orkut-undirected/labeled/orkut-50.txt -pattern-file edgelist/orkut-undirected/labeled/orkut-50-sample-pattern/32-9.txt

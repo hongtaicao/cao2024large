@@ -1,0 +1,139 @@
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-4-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-8-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-16-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/dense-20-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-8-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-16-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/human-undirected/labeled/human.txt -pattern-file edgelist/human-undirected/labeled/pattern_graph/sparse-20-10.txt

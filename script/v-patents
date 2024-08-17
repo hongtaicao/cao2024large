@@ -1,0 +1,179 @@
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-1.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-2.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-3.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-4.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-5.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-6.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-7.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-8.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-9.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-4-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-8-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-16-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-24-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/dense-32-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-8-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-16-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-24-10.txt
+
+./reproduce.exe -isomorphism VertexInduce -is-labeled 1 -data-file edgelist/patents-undirected/labeled/patents.txt -pattern-file edgelist/patents-undirected/labeled/pattern_graph/sparse-32-10.txt

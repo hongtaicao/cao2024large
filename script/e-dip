@@ -1,0 +1,123 @@
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-109.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-119.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-12.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-173.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-174.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-182.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-183.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-216.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-221.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-22.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-233.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-252.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-332.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-402.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-8-85.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-131.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-179.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-246.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-277.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-279.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-309.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-311.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-316.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-334.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-336.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-67.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-9-8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-206.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-20.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-278.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-297.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-312.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-10-335.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-11-18.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-11-222.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-11-227.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-11-399.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-12-139.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-12-333.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-12-392.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-12-408.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-13-148.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-13-171.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-13-50.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-14-170.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-14-17.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-14-240.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-14-9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-150.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-166.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-243.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-263.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-357.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-15-98.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-17-250.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-17-45.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-18-99.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-19-371.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-19-419.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-20-266.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-23-300.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 0 -data-file edgelist/DPCMNE-undirected/unlabeled/DIP20170205.txt -pattern-file edgelist/DPCMNE-undirected/unlabeled/complex/DIP20170205-NewMIPS-25-169.txt

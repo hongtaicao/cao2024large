@@ -1,0 +1,159 @@
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q0.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q1.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q2.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q3.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q4.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q5.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q6.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q7.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q8.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/50/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/100/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/150/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/nonsparse/200/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/50/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/100/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/150/q9.txt
+
+./reproduce.exe -isomorphism EdgeInduce -is-labeled 1 -data-file edgelist/yeast-undirected/yeast.txt -pattern-file edgelist/yeast-undirected/sparse/200/q9.txt
