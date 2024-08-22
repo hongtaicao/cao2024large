@@ -22,7 +22,7 @@ Cao, Hongtai, Qihao Wang, Xiaodong Li, Matin Najafi, Kevin Chen–Chuan Chang, a
 * Subgraph Matching: given a small pattern graph ``P`` and a large data graph ``G``, find all subgraphs ``S`` of ``G`` such that ``S`` is isomorphic to ``P``. Below is an example.
     + ![ScreenShot](image/subgraph-matching-example.png)
     + Support graphs with a mixture of directed edges and undirected edges.
-    + Support both labeled and unlabeled graphs. Do not allow partially labeled and partially unlabeled graphs.
+    + Support both vertex labels, edge labels, and unlabeled graphs. Do not allow partially labeled and partially unlabeled graphs.
     + Support all of edge-induced (non-induced), vertex-induced (induced) and homomorphic subgraph matching.
     + Subgraph matching by default refers to edge-induced subgraph matching.
 
@@ -83,10 +83,10 @@ Cao, Hongtai, Qihao Wang, Xiaodong Li, Matin Najafi, Kevin Chen–Chuan Chang, a
     - ``a b``
     - represent an edge a->b
     - an undirected edge a--b should be two lines, one for a->b, one for b->a
-* Type of ``vertex id``, ``vertex label``, ``edge label``
-    - ``a`` and ``b`` are ``vertex id``, consecutive integers from 0.
-    - ``la`` and ``lv`` are ``vertex label``, consecutive integers from 0.
-    - ``le`` is ``edge label``, consecutive integers from 0.
+* Type of ``vertex identifiers``, ``vertex label``, ``edge label``
+    - ``a`` and ``b`` are ``vertex identifiers``, consecutive integers from 0.
+    - ``la`` and ``lb`` are ``vertex labels``, consecutive integers from 0.
+    - ``le`` is an ``edge label``, consecutive integers from 0.
 
 
 ## Reproduce
